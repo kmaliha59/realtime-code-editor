@@ -69,6 +69,4 @@ npm test
 MIT License
 
 ## 🙏 Acknowledgments
-
-- Monaco Editor by Microsoft
 - Socket.io for real-time communication
